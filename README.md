@@ -33,7 +33,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/TVVinudev/Address_Diary.git
+    git clone https://github.com/TVVinudev/Task-Manager.git
     ```
 2. open server file in terminal ,
    ```bash
