@@ -1,11 +1,10 @@
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 
 const TaskForm = () => {
 
     const [title, setTitle] = useState('');
     const [description, setDescription] = useState('');
     const [priority, setPriority] = useState('');
-
 
     async function handleSubmit(e) {
         e.preventDefault();
